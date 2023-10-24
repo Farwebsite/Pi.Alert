@@ -50,8 +50,8 @@ sudo get-iab -v
 sudo get-oui -v
 
 # Update from ieee website
-# sudo get-iab -v -u http://standards-oui.ieee.org/iab/iab.txt
-# sudo get-oui -v -u http://standards-oui.ieee.org/oui/oui.txt
+sudo get-iab -v -u http://standards-oui.ieee.org/iab/iab.txt
+sudo get-oui -v -u http://standards-oui.ieee.org/oui/oui.txt
 
 # Update from ieee website develop
 # sudo get-iab -v -u http://standards.ieee.org/develop/regauth/iab/iab.txt
